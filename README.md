@@ -48,9 +48,9 @@ git lfs pull
 ### 3. Run the Data Preprocessing Notebook
 
 Launch Jupyter Notebook from the project root:
-
+```
 jupyter notebook notebooks/01_data_preprocessing.ipynb
-
+```
 
 - The notebook loads datasets from `data/raw/`.  
 - Preprocessed files are saved to `data/processed/`.
