@@ -18,39 +18,30 @@ OrgGO/
 ├── requirements.txt
 └── README.md
 
-
-This will render in GitHub as a nicely formatted, fixed-width code block preserving spaces and lines, perfect for directory trees or code snippets.
-
----
-
-For commands, use language like `bash`:
-
-```
-```bash
-git clone https://github.com/ManushGR12/Shell-Week-1--Green-AI.git
-cd Shell-Week-1--Green-AI
 ```
 ---
 
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-
--->git clone https://github.com/ManushGR12/Shell-Week-1--Green-AI.git
--->cd Shell-Week-1--Green-AI
-
+```
+git clone https://github.com/ManushGR12/Shell-Week-1--Green-AI.git
+```
+```
+cd Shell-Week-1--Green-AI
+```
 
 ### 2. Install Requirements
-
+```
 pip install -r requirements.txt
-
+```
 
 > **Note:** For large files, [Git LFS](https://git-lfs.github.com/) is used.  
 > After cloning, run:
-
--->git lfs install
--->git lfs pull
-
+```
+git lfs install
+git lfs pull
+```
 
 ---
 
